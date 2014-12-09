@@ -1,0 +1,3 @@
+[submodule "FLEXDylib/Vendor/FLEX"]
+	path = FLEXDylib/Vendor/FLEX
+	url = https://github.com/Flipboard/FLEX.git
