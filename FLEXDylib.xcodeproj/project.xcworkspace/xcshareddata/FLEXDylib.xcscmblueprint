@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0F72ECEA9DB962F2A1B1EDF21DB73C84F70F9DF6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "46B3A7D7791AFC212FFD6D68FA84110731573E19" : 0,
+    "0F72ECEA9DB962F2A1B1EDF21DB73C84F70F9DF6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "63196307-BAF4-4BDC-A107-3FC71610FDB6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "46B3A7D7791AFC212FFD6D68FA84110731573E19" : "FLEXDynamicLibProject\/FLEXDylib\/Vendor\/FLEX\/",
+    "0F72ECEA9DB962F2A1B1EDF21DB73C84F70F9DF6" : "FLEXDynamicLibProject"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FLEXDylib",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FLEXDylib.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/qiaoxueshi\/FLEXDynamicLibProject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0F72ECEA9DB962F2A1B1EDF21DB73C84F70F9DF6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Flipboard\/FLEX.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "46B3A7D7791AFC212FFD6D68FA84110731573E19"
+    }
+  ]
+}
